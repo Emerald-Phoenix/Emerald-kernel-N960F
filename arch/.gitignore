@@ -1,2 +1,4 @@
 i386
 x86_64
+arm64/boot/dtb.img
+arm64/include/generated
